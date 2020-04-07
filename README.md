@@ -1,2 +1,2 @@
-# katsia.touchette-gmail.com
+# katsia.touchette
 Coin Game
